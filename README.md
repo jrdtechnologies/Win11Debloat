@@ -236,7 +236,7 @@ Download & run the script automatically via PowerShell. All traces of the script
 2. Copy and paste the code below into PowerShell, press enter to run the script:
 
 ```PowerShell
-& ([scriptblock]::Create((irm "https://win11debloat.raphi.re/")))
+& ([scriptblock]::Create((irm "https://raw.githubusercontent.com/jrdtechnologies/Win11Debloat/master/Get.ps1")))
 ```
 
 3. Wait for the script to automatically download Win11Debloat.
@@ -246,7 +246,7 @@ Download & run the script automatically via PowerShell. All traces of the script
 This method supports [parameters](#parameters). To use parameters simply run the script as explained above, but add the parameters at the end with spaces in between. Example:
 
 ```PowerShell
-& ([scriptblock]::Create((irm "https://win11debloat.raphi.re/"))) -RunDefaults -Silent
+& ([scriptblock]::Create((irm "https://raw.githubusercontent.com/jrdtechnologies/Win11Debloat/master/Get.ps1"))) -RunDefaults -Silent
 ```
 
 ### Traditional method
