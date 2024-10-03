@@ -13,7 +13,7 @@ The script also includes many features that system administrators will enjoy. Su
 ## Features
 
 > [!Tip]
-> All of the changes made by Win11Debloat can easily be reverted and almost all of the apps can be reinstalled through the Microsoft Store. A full guide on how to revert changes can be found [here](https://github.com/Raphire/Win11Debloat/discussions/114).
+> All of the changes made by Win11Debloat can easily be reverted and almost all of the apps can be reinstalled through the Microsoft Store. A full guide on how to revert changes can be found [here](https://github.com/jrdtechnologies/Win11Debloat/discussions/114).
 
 #### App Removal
 
@@ -253,7 +253,7 @@ This method supports [parameters](#parameters). To use parameters simply run the
 
 Manually download & run the script.
 
-1. [Download the latest version of the script](https://github.com/Raphire/Win11Debloat/archive/master.zip), and extract the .ZIP file to your desired location.
+1. [Download the latest version of the script](https://github.com/jrdtechnologies/Win11Debloat/archive/master.zip), and extract the .ZIP file to your desired location.
 2. Navigate to the Win11Debloat folder
 3. Double click the `Run.bat` file to start the script. NOTE: If the console window immediately closes and nothing happens, try the advanced method below.
 4. Accept the Windows UAC prompt to run the script as administrator, this is required for the script to function.
@@ -264,7 +264,7 @@ Manually download & run the script.
 
 Manually download the script & run the script via PowerShell. Only recommended for advanced users.
 
-1. [Download the latest version of the script](https://github.com/Raphire/Win11Debloat/archive/master.zip), and extract the .ZIP file to your desired location.
+1. [Download the latest version of the script](https://github.com/jrdtechnologies/Win11Debloat/archive/master.zip), and extract the .ZIP file to your desired location.
 2. Open PowerShell as an administrator.
 3. Temporarily enable PowerShell execution by entering the following command:
 
