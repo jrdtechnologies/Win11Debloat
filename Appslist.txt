@@ -2,7 +2,7 @@
 #  The apps below this line WILL be uninstalled by default. Add a # character in front of any app you want to    #
 #   KEEP installed by default.                                                                                   #
 # -------------------------------------------------------------------------------------------------------------- #
-Clipchamp.Clipchamp
+# Clipchamp.Clipchamp
 Microsoft.3DBuilder
 Microsoft.549981C3F5F10   #Cortana app
 Microsoft.BingFinance
@@ -18,7 +18,7 @@ Microsoft.Messaging
 Microsoft.Microsoft3DViewer
 Microsoft.MicrosoftJournal
 Microsoft.MicrosoftOfficeHub
-Microsoft.MicrosoftPowerBIForWindows
+# Microsoft.MicrosoftPowerBIForWindows
 Microsoft.MicrosoftSolitaireCollection
 Microsoft.MicrosoftStickyNotes
 Microsoft.MixedReality.Portal
@@ -29,7 +29,7 @@ Microsoft.Office.Sway
 Microsoft.OneConnect
 Microsoft.Print3D
 Microsoft.SkypeApp
-Microsoft.Todos
+# Microsoft.Todos
 Microsoft.WindowsAlarms
 Microsoft.WindowsFeedbackHub
 Microsoft.WindowsMaps
@@ -39,7 +39,7 @@ Microsoft.ZuneVideo
 MicrosoftCorporationII.MicrosoftFamily   # Family Safety App
 MicrosoftCorporationII.QuickAssist
 MicrosoftTeams   # Old MS Teams personal (MS Store)
-MSTeams   # New MS Teams app
+# MSTeams   # New MS Teams app
 
 ACGMediaPlayer
 ActiproSoftwareLLC
